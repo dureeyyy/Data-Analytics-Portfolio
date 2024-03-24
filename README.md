@@ -1,2 +1,2 @@
 # Data-Analytics-Portfolio
-Explore my Data Analytics Portfolio! Discover Tableau, Excel, SQL projects &amp; more. Dive into insightful visualizations, data analyses, and innovative solutions. Join me in the realm of data for exploration, discovery, and actionable insights!
+Welcome to my Data Analytics Portfolio! Here, you'll find a curated collection of my projects showcasing expertise in Tableau, Excel, SQL, and more. Explore insightful visualizations, data-driven analyses, and innovative solutions crafted to tackle real-world challenges. Join me on this journey through the realm of data analytics, where every project tells a story of exploration, discovery, and actionable insights.
