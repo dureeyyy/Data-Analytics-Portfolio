@@ -16,3 +16,7 @@ Excel Dashboard for Issue Tracking: This repository contains a simple Excel dash
 Explore captivating Tableau projects that unveil compelling data visualizations, insightful dashboards, and impactful data stories. Dive into a world of data-driven insights, interactive analytics, and innovative visualization techniques, showcasing the power of data visualization with Tableau.
 
 Check my works here: https://public.tableau.com/app/profile/christian.andrei.palma/vizzes
+
+**ALTERYX CHALLENGES**
+
+Dive into the world of data transformation and analytics with my collection of Alteryx weekly challenges! Explore hands-on exercises designed to enhance your Alteryx skills, tackle real-world data problems, and master the art of workflow automation. Elevate your data prowess and join the community of Alteryx enthusiasts today!
